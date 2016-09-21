@@ -12,3 +12,31 @@ body{
 .fb-search{
   width: 395px !important;
 }
+
+.fb-trending ul a{
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.fb-trending .col-md-4{
+  margin-top: 2px;
+}
+
+.fb-trending > .row:first-child {
+  border-top: 1px solid lightgrey;
+  border-bottom: 1px solid lightgrey;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.fb-trending .media {
+  margin-top: 5px;
+}
+
+.fb-trending {
+  border-bottom: 1px solid lightgrey;
+}
