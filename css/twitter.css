@@ -1,0 +1,52 @@
+.nav.navbar-nav .glyphicon{
+  margin-right: 5px
+}
+.twitter-search input{
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-right:0px;
+  box-shadow: none !important;
+  border-color: lightgrey !important;
+}
+.twitter-search .btn,
+.twitter-search .btn:hover{
+  background: white;
+  border-left: 0px;
+  border-color: lightgrey;
+  outline: none;
+  margin-right: 15px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+
+
+.main .row .col-md-8 a{
+  margin-right: 10px;
+}
+
+.main .row .col-md-12{
+  margin-top: 10px;
+}
+.main .row .col-md-12 a{
+  margin-right: 50px;
+  color: grey;
+  font-size: 15px;
+}
+
+.main .row .col-md-12 a:first-child:hover{
+  color: rgb(85, 106, 198);
+}
+.main .row .col-md-12 a:nth-child(2):hover{
+  color: rgb(94, 193, 92);
+}
+.main .row .col-md-12 a:nth-child(3):hover{
+  color: red;
+}
+.main .row .col-md-12 a:nth-child(4):hover{
+  color: rgb(85, 106, 198);
+}
+
+.main{
+  padding: 25px;
+}
